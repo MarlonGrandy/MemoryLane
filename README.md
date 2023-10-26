@@ -1,6 +1,12 @@
 ---
 
 # MemoryLane
+![Screenshot 2023-10-26 at 9 21 19 AM](https://github.com/MarlonGrandy/MemoryLane/assets/106160715/775fa2bb-105a-4915-a17b-09b1c02cc8cd)
+![Screenshot 2023-10-26 at 9 22 49 AM](https://github.com/MarlonGrandy/MemoryLane/assets/106160715/e1e13b5c-368b-4316-aa01-7881f095ce03)
+![Screenshot 2023-10-26 at 9 21 47 AM](https://github.com/MarlonGrandy/MemoryLane/assets/106160715/27d22fcf-9d58-4dc9-9ace-d625b3284a3a)
+![Screenshot 2023-10-26 at 9 22 05 AM](https://github.com/MarlonGrandy/MemoryLane/assets/106160715/df3d2805-d7e6-42b2-9a50-9fb6f615de3b)
+![Screenshot 2023-10-26 at 9 22 21 AM](https://github.com/MarlonGrandy/MemoryLane/assets/106160715/7288f047-132f-4526-a599-1ba7d3bcbf2e)
+
 
 MemoryLane is an iOS app that offers users a space to curate and revisit their most cherished memories. Utilizing the SwiftUI framework, this interactive platform enables users to engage with daily prompts, attach photos, and dive deep into nostalgia.
 
